@@ -1,5 +1,7 @@
 # OpenClaw on Cloudflare Workers
 
+> 🗂️ **一次性專案**：一次性 source repo import，之後未再開發，內容不再變動，因此不做版本管理。
+
 Run [OpenClaw](https://github.com/openclaw/openclaw) (formerly Moltbot, formerly Clawdbot) personal AI assistant in a [Cloudflare Sandbox](https://developers.cloudflare.com/sandbox/).
 
 ![moltworker architecture](./assets/logo.png)
